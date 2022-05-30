@@ -26,6 +26,6 @@ namespace ClientApi.Data.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Users");
-        }
+        }        
     }
 }
